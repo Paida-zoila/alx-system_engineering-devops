@@ -13,3 +13,5 @@ The 3-listfiles file is a script that displays current directory contents in a l
 The 4-listmorefiles file is a scrpt that displays current directory contents, including hidden files (starting with .).
 
 The 5-listfilesdigitonly file is a script that displays current directory contents, including hidden files with their user and group IDs displayed numerically.
+
+The 6-firstdirectory file is a script that creates holberton directory in the /tmp/ directory.
