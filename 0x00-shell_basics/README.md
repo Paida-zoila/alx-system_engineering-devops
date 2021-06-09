@@ -28,4 +28,6 @@ The 11-lists file is a script that lists all files (even ones with names beginni
 
 The 12-file_type file is a script that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run your script.
 
-The 13-symbolic_link file is a file that creates a symbolic link to /bin/ls, named __ls__. The symbolic link should be created in the current working directory.
+The 13-symbolic_link file is a script that creates a symbolic link to /bin/ls, named __ls__. The symbolic link should be created in the current working directory.
+
+The 14-copy_html file is a script that copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
