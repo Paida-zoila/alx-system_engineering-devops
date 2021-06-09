@@ -7,3 +7,5 @@ The 0-current_working_directory file is a script that prints the absolute path n
 The 1-listit file is a script that prints the contents list of my current working directory.
 
 The 2-bring_me_home file is a script that changes the working directory to the user’s home directory.
+
+The 3-listfiles file is a script that displays current directory contents in a long format.
