@@ -23,3 +23,5 @@ The 8-firstdelete file is a script that deletes the file betty from /tmp/.
 The 9-firstdirdeletion file is a script that deletes the holberton dir from the /tmp/ dir.
 
 The 10-back file is a script that changes the working directory to the previous one.
+
+The 11-lists file is a script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
