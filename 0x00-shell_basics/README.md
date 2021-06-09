@@ -19,3 +19,5 @@ The 6-firstdirectory file is a script that creates holberton directory in the /t
 The 7-movethatfile file is a script that moves the file betty from /tmp/ to /tmp/holberton.
 
 The 8-firstdelete file is a script that deletes the file betty from /tmp/.
+
+The 9-firstdirdeletion file is a script that deletes the holberton dir from the /tmp/ dir.
