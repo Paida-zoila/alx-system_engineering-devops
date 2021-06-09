@@ -39,3 +39,5 @@ The 101-clean_emacs file is a script that deletes all files in the current worki
 The 102-tree file is a script that creates the directories welcome/, welcome/to/ and welcome/to/holberton in the current directory.
 
 The 103-commas file is a script that lists all the files and directories of the current directory, separated by commas.
+
+The holberton.mgc file is a script that can be used with the command file to detect Holberton data files. Holberton data files always contain the string HOLBERTON at offset 0.
