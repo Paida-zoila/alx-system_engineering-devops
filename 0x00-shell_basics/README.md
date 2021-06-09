@@ -25,3 +25,5 @@ The 9-firstdirdeletion file is a script that deletes the holberton dir from the 
 The 10-back file is a script that changes the working directory to the previous one.
 
 The 11-lists file is a script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
+
+The 12-file_type sile is a script that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run your script.
