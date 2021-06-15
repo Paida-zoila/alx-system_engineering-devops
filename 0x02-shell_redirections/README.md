@@ -53,3 +53,20 @@ The 20-hiago file is a script that removes all letters c and C from input.
 The 21-reverse file is a script that reverses its input.
 
 The 22-users_and_homes file is a script that displays all users and their home directories, sorted by users, based on the the /etc/passwd file.
+
+The 100-empty_casks file is a script that finds all empty files and directories in the current directory and all sub-directories.
+Only the names of the files and directories should be displayed (not the entire path
+Hidden files should be listed
+One file name per line
+The listing should end with a new line
+
+The 101-gifs file is a script that lists all the files with a .gif extension in the current directory and all its sub-directories.
+Hidden files should be listed
+Only regular files (not directories) should be listed
+The names of the files should be displayed without their extensions
+The files should be sorted by byte values, but case-insensitive (file aaa should be listed before file bbb, file .b should be listed before file a, and file Rona should be listed after file jay)
+One file name per line
+The listing should end with a new line
+
+The 103-the_biggest_fan file is a script that parses web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests.
+Order by number of requests, most active host or IP at the top.
